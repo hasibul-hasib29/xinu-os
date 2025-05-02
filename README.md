@@ -3,6 +3,7 @@
 ## How to use
 
 ```
+# This fixed all the errors :)
 $ git clone https://github.com/hasibul-hasib29/xinu-os.git
 # you can add this as build_and_run.sh
 cd ~/xinu-os/compile
